@@ -1,0 +1,10 @@
+D:\user\desktop\QUINTO_APP_INFO\app_info_1\app_info_1\bin\Debug\app_info_1.exe.config
+D:\user\desktop\QUINTO_APP_INFO\app_info_1\app_info_1\bin\Debug\app_info_1.exe
+D:\user\desktop\QUINTO_APP_INFO\app_info_1\app_info_1\bin\Debug\app_info_1.pdb
+D:\user\desktop\QUINTO_APP_INFO\app_info_1\app_info_1\obj\Debug\app_info_1.csprojAssemblyReference.cache
+D:\user\desktop\QUINTO_APP_INFO\app_info_1\app_info_1\obj\Debug\app_info_1.Form1.resources
+D:\user\desktop\QUINTO_APP_INFO\app_info_1\app_info_1\obj\Debug\app_info_1.Properties.Resources.resources
+D:\user\desktop\QUINTO_APP_INFO\app_info_1\app_info_1\obj\Debug\app_info_1.csproj.GenerateResource.cache
+D:\user\desktop\QUINTO_APP_INFO\app_info_1\app_info_1\obj\Debug\app_info_1.csproj.CoreCompileInputs.cache
+D:\user\desktop\QUINTO_APP_INFO\app_info_1\app_info_1\obj\Debug\app_info_1.exe
+D:\user\desktop\QUINTO_APP_INFO\app_info_1\app_info_1\obj\Debug\app_info_1.pdb
