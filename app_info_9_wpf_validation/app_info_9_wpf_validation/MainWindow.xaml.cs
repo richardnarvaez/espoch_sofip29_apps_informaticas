@@ -35,11 +35,5 @@ namespace app_info_9_wpf_validation
             Form1 f = new Form1();
             f.Show();
         }
-
-        private void button_Click_1(object sender, RoutedEventArgs e)
-        {
-            Form1 f = new Form1();
-            f.Show();
-        }
     }
 }
