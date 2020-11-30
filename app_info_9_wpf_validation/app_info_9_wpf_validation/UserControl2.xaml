@@ -1,0 +1,13 @@
+﻿<UserControl x:Class="app_info_9_wpf_validation.UserControl2"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:app_info_9_wpf_validation"
+             mc:Ignorable="d" Height="263.095" Width="376.19">
+    <Grid>
+        <Label x:Name="label" Content="Label" HorizontalAlignment="Center" Margin="10,91,10,0" VerticalAlignment="Top" Width="236"/>
+        <Label x:Name="label1" Content="N1" HorizontalAlignment="Center" Height="76" Margin="10,10,10,0" VerticalAlignment="Top" Width="236" FontSize="40" FontWeight="Bold"/>
+
+    </Grid>
+</UserControl>

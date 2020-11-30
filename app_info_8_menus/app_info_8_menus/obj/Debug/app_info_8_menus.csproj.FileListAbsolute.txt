@@ -1,0 +1,11 @@
+D:\user\desktop\QUINTO_APP_INFO\app_info_8_menus\app_info_8_menus\bin\Debug\app_info_8_menus.exe.config
+D:\user\desktop\QUINTO_APP_INFO\app_info_8_menus\app_info_8_menus\bin\Debug\app_info_8_menus.exe
+D:\user\desktop\QUINTO_APP_INFO\app_info_8_menus\app_info_8_menus\bin\Debug\app_info_8_menus.pdb
+D:\user\desktop\QUINTO_APP_INFO\app_info_8_menus\app_info_8_menus\obj\Debug\app_info_8_menus.csprojAssemblyReference.cache
+D:\user\desktop\QUINTO_APP_INFO\app_info_8_menus\app_info_8_menus\obj\Debug\app_info_8_menus.Form1.resources
+D:\user\desktop\QUINTO_APP_INFO\app_info_8_menus\app_info_8_menus\obj\Debug\app_info_8_menus.Properties.Resources.resources
+D:\user\desktop\QUINTO_APP_INFO\app_info_8_menus\app_info_8_menus\obj\Debug\app_info_8_menus.csproj.GenerateResource.cache
+D:\user\desktop\QUINTO_APP_INFO\app_info_8_menus\app_info_8_menus\obj\Debug\app_info_8_menus.csproj.CoreCompileInputs.cache
+D:\user\desktop\QUINTO_APP_INFO\app_info_8_menus\app_info_8_menus\obj\Debug\app_info_8_menus.exe
+D:\user\desktop\QUINTO_APP_INFO\app_info_8_menus\app_info_8_menus\obj\Debug\app_info_8_menus.pdb
+D:\user\desktop\QUINTO_APP_INFO\app_info_8_menus\app_info_8_menus\obj\Debug\app_info_8_menus.Form2.resources

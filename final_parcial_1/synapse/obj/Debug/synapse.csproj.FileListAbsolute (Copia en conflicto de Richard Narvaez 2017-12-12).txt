@@ -1,0 +1,44 @@
+D:\Usuario\Documents\Visual Studio 2015\Projects\synopse\synapse\synapse\bin\Debug\synapse.exe.config
+D:\Usuario\Documents\Visual Studio 2015\Projects\synopse\synapse\synapse\bin\Debug\synapse.exe
+D:\Usuario\Documents\Visual Studio 2015\Projects\synopse\synapse\synapse\bin\Debug\synapse.pdb
+D:\Usuario\Documents\Visual Studio 2015\Projects\synopse\synapse\synapse\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Usuario\Documents\Visual Studio 2015\Projects\synopse\synapse\synapse\obj\Debug\synapse.csprojResolveAssemblyReference.cache
+D:\Usuario\Documents\Visual Studio 2015\Projects\synopse\synapse\synapse\obj\Debug\synapse.Form1.resources
+D:\Usuario\Documents\Visual Studio 2015\Projects\synopse\synapse\synapse\obj\Debug\synapse.Properties.Resources.resources
+D:\Usuario\Documents\Visual Studio 2015\Projects\synopse\synapse\synapse\obj\Debug\synapse.csproj.GenerateResource.Cache
+D:\Usuario\Documents\Visual Studio 2015\Projects\synopse\synapse\synapse\obj\Debug\synapse.exe
+D:\Usuario\Documents\Visual Studio 2015\Projects\synopse\synapse\synapse\obj\Debug\synapse.pdb
+D:\Usuario\Documents\Visual Studio 2015\Projects\synopse\synapse\synapse\obj\Debug\synapse.Acceso.resources
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\bin\Debug\synapse.exe.config
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\obj\Debug\synapse.exe
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\obj\Debug\synapse.pdb
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\bin\Debug\synapse.exe
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\bin\Debug\synapse.pdb
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\obj\Debug\synapse.csprojResolveAssemblyReference.cache
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\obj\Debug\synapse.Acceso.resources
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\obj\Debug\synapse.Properties.Resources.resources
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\obj\Debug\synapse.csproj.GenerateResource.Cache
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\obj\Debug\synapse.SplashScreen.resources
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\obj\Debug\synapse.MainForm.resources
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\bin\Debug\ExtendAero.dll
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\obj\Debug\synapse.GameForm.resources
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\bin\Debug\Newtonsoft.Json.dll
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\bin\Debug\System.Reactive.Core.dll
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\bin\Debug\System.Reactive.Interfaces.dll
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\bin\Debug\System.Reactive.Linq.dll
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\bin\Debug\System.Reactive.PlatformServices.dll
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\bin\Debug\System.Reactive.Windows.Threading.dll
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\bin\Debug\Newtonsoft.Json.xml
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\bin\Debug\System.Reactive.Core.xml
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\bin\Debug\System.Reactive.Interfaces.xml
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\bin\Debug\System.Reactive.Linq.xml
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\bin\Debug\System.Reactive.PlatformServices.xml
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\bin\Debug\System.Reactive.Windows.Threading.xml
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\bin\Debug\Firebase.dll
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\obj\Debug\synapse.csproj.ResolveComReference.cache
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\obj\Debug\synapse.ItemVideo.resources

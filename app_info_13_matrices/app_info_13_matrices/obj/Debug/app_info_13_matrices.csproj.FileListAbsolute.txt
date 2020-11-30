@@ -1,0 +1,10 @@
+C:\Users\nenom\source\repos\app_info_13_matrices\app_info_13_matrices\bin\Debug\app_info_13_matrices.exe.config
+C:\Users\nenom\source\repos\app_info_13_matrices\app_info_13_matrices\bin\Debug\app_info_13_matrices.exe
+C:\Users\nenom\source\repos\app_info_13_matrices\app_info_13_matrices\bin\Debug\app_info_13_matrices.pdb
+C:\Users\nenom\source\repos\app_info_13_matrices\app_info_13_matrices\obj\Debug\app_info_13_matrices.csprojAssemblyReference.cache
+C:\Users\nenom\source\repos\app_info_13_matrices\app_info_13_matrices\obj\Debug\app_info_13_matrices.Form1.resources
+C:\Users\nenom\source\repos\app_info_13_matrices\app_info_13_matrices\obj\Debug\app_info_13_matrices.Properties.Resources.resources
+C:\Users\nenom\source\repos\app_info_13_matrices\app_info_13_matrices\obj\Debug\app_info_13_matrices.csproj.GenerateResource.cache
+C:\Users\nenom\source\repos\app_info_13_matrices\app_info_13_matrices\obj\Debug\app_info_13_matrices.csproj.CoreCompileInputs.cache
+C:\Users\nenom\source\repos\app_info_13_matrices\app_info_13_matrices\obj\Debug\app_info_13_matrices.exe
+C:\Users\nenom\source\repos\app_info_13_matrices\app_info_13_matrices\obj\Debug\app_info_13_matrices.pdb

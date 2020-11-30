@@ -1,0 +1,10 @@
+D:\user\desktop\QUINTO_APP_INFO\appinfo_5_voice\appinfo_5_voice\bin\Debug\appinfo_5_voice.exe.config
+D:\user\desktop\QUINTO_APP_INFO\appinfo_5_voice\appinfo_5_voice\bin\Debug\appinfo_5_voice.exe
+D:\user\desktop\QUINTO_APP_INFO\appinfo_5_voice\appinfo_5_voice\bin\Debug\appinfo_5_voice.pdb
+D:\user\desktop\QUINTO_APP_INFO\appinfo_5_voice\appinfo_5_voice\obj\Debug\appinfo_5_voice.csprojAssemblyReference.cache
+D:\user\desktop\QUINTO_APP_INFO\appinfo_5_voice\appinfo_5_voice\obj\Debug\appinfo_5_voice.Form1.resources
+D:\user\desktop\QUINTO_APP_INFO\appinfo_5_voice\appinfo_5_voice\obj\Debug\appinfo_5_voice.Properties.Resources.resources
+D:\user\desktop\QUINTO_APP_INFO\appinfo_5_voice\appinfo_5_voice\obj\Debug\appinfo_5_voice.csproj.GenerateResource.cache
+D:\user\desktop\QUINTO_APP_INFO\appinfo_5_voice\appinfo_5_voice\obj\Debug\appinfo_5_voice.csproj.CoreCompileInputs.cache
+D:\user\desktop\QUINTO_APP_INFO\appinfo_5_voice\appinfo_5_voice\obj\Debug\appinfo_5_voice.exe
+D:\user\desktop\QUINTO_APP_INFO\appinfo_5_voice\appinfo_5_voice\obj\Debug\appinfo_5_voice.pdb

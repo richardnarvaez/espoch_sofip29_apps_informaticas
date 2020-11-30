@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "appinfo_4_consola": {
+      "commandName": "Project",
+      "commandLineArgs": "\"1\" \"4\""
+    }
+  }
+}

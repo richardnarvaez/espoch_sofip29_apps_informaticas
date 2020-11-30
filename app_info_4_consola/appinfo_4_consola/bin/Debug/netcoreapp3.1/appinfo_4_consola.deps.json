@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "appinfo_4_consola/1.0.0": {
+        "runtime": {
+          "appinfo_4_consola.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "appinfo_4_consola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

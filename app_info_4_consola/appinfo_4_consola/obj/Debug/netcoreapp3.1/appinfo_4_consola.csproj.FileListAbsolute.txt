@@ -1,0 +1,13 @@
+D:\user\desktop\QUINTO_APP_INFO\appinfo_4_consola\appinfo_4_consola\bin\Debug\netcoreapp3.1\appinfo_4_consola.exe
+D:\user\desktop\QUINTO_APP_INFO\appinfo_4_consola\appinfo_4_consola\bin\Debug\netcoreapp3.1\appinfo_4_consola.deps.json
+D:\user\desktop\QUINTO_APP_INFO\appinfo_4_consola\appinfo_4_consola\bin\Debug\netcoreapp3.1\appinfo_4_consola.runtimeconfig.json
+D:\user\desktop\QUINTO_APP_INFO\appinfo_4_consola\appinfo_4_consola\bin\Debug\netcoreapp3.1\appinfo_4_consola.runtimeconfig.dev.json
+D:\user\desktop\QUINTO_APP_INFO\appinfo_4_consola\appinfo_4_consola\bin\Debug\netcoreapp3.1\appinfo_4_consola.dll
+D:\user\desktop\QUINTO_APP_INFO\appinfo_4_consola\appinfo_4_consola\bin\Debug\netcoreapp3.1\appinfo_4_consola.pdb
+D:\user\desktop\QUINTO_APP_INFO\appinfo_4_consola\appinfo_4_consola\obj\Debug\netcoreapp3.1\appinfo_4_consola.csprojAssemblyReference.cache
+D:\user\desktop\QUINTO_APP_INFO\appinfo_4_consola\appinfo_4_consola\obj\Debug\netcoreapp3.1\appinfo_4_consola.AssemblyInfoInputs.cache
+D:\user\desktop\QUINTO_APP_INFO\appinfo_4_consola\appinfo_4_consola\obj\Debug\netcoreapp3.1\appinfo_4_consola.AssemblyInfo.cs
+D:\user\desktop\QUINTO_APP_INFO\appinfo_4_consola\appinfo_4_consola\obj\Debug\netcoreapp3.1\appinfo_4_consola.csproj.CoreCompileInputs.cache
+D:\user\desktop\QUINTO_APP_INFO\appinfo_4_consola\appinfo_4_consola\obj\Debug\netcoreapp3.1\appinfo_4_consola.dll
+D:\user\desktop\QUINTO_APP_INFO\appinfo_4_consola\appinfo_4_consola\obj\Debug\netcoreapp3.1\appinfo_4_consola.pdb
+D:\user\desktop\QUINTO_APP_INFO\appinfo_4_consola\appinfo_4_consola\obj\Debug\netcoreapp3.1\appinfo_4_consola.genruntimeconfig.cache

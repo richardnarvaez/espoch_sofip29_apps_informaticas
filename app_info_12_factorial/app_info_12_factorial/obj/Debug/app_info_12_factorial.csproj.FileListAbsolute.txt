@@ -1,0 +1,10 @@
+C:\Users\nenom\source\repos\app_info_12_factorial\app_info_12_factorial\bin\Debug\app_info_12_factorial.exe.config
+C:\Users\nenom\source\repos\app_info_12_factorial\app_info_12_factorial\bin\Debug\app_info_12_factorial.exe
+C:\Users\nenom\source\repos\app_info_12_factorial\app_info_12_factorial\bin\Debug\app_info_12_factorial.pdb
+C:\Users\nenom\source\repos\app_info_12_factorial\app_info_12_factorial\obj\Debug\app_info_12_factorial.csprojAssemblyReference.cache
+C:\Users\nenom\source\repos\app_info_12_factorial\app_info_12_factorial\obj\Debug\app_info_12_factorial.Form1.resources
+C:\Users\nenom\source\repos\app_info_12_factorial\app_info_12_factorial\obj\Debug\app_info_12_factorial.Properties.Resources.resources
+C:\Users\nenom\source\repos\app_info_12_factorial\app_info_12_factorial\obj\Debug\app_info_12_factorial.csproj.GenerateResource.cache
+C:\Users\nenom\source\repos\app_info_12_factorial\app_info_12_factorial\obj\Debug\app_info_12_factorial.csproj.CoreCompileInputs.cache
+C:\Users\nenom\source\repos\app_info_12_factorial\app_info_12_factorial\obj\Debug\app_info_12_factorial.exe
+C:\Users\nenom\source\repos\app_info_12_factorial\app_info_12_factorial\obj\Debug\app_info_12_factorial.pdb

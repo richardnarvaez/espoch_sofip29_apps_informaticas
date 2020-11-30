@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app_info_7_eventos_multiples", "app_info_7_eventos_multiples\app_info_7_eventos_multiples.csproj", "{794641A6-2639-4EBB-BA9D-093ADA6EB898}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{794641A6-2639-4EBB-BA9D-093ADA6EB898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{794641A6-2639-4EBB-BA9D-093ADA6EB898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{794641A6-2639-4EBB-BA9D-093ADA6EB898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{794641A6-2639-4EBB-BA9D-093ADA6EB898}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {852B9EB9-0D6E-41EE-BC38-BF4A4FE851FD}
+	EndGlobalSection
+EndGlobal

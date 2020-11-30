@@ -1,0 +1,184 @@
+D:\Usuario\Documents\Visual Studio 2015\Projects\synopse\synapse\synapse\bin\Debug\synapse.exe.config
+D:\Usuario\Documents\Visual Studio 2015\Projects\synopse\synapse\synapse\bin\Debug\synapse.exe
+D:\Usuario\Documents\Visual Studio 2015\Projects\synopse\synapse\synapse\bin\Debug\synapse.pdb
+D:\Usuario\Documents\Visual Studio 2015\Projects\synopse\synapse\synapse\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Usuario\Documents\Visual Studio 2015\Projects\synopse\synapse\synapse\obj\Debug\synapse.csprojResolveAssemblyReference.cache
+D:\Usuario\Documents\Visual Studio 2015\Projects\synopse\synapse\synapse\obj\Debug\synapse.Form1.resources
+D:\Usuario\Documents\Visual Studio 2015\Projects\synopse\synapse\synapse\obj\Debug\synapse.Properties.Resources.resources
+D:\Usuario\Documents\Visual Studio 2015\Projects\synopse\synapse\synapse\obj\Debug\synapse.csproj.GenerateResource.Cache
+D:\Usuario\Documents\Visual Studio 2015\Projects\synopse\synapse\synapse\obj\Debug\synapse.exe
+D:\Usuario\Documents\Visual Studio 2015\Projects\synopse\synapse\synapse\obj\Debug\synapse.pdb
+D:\Usuario\Documents\Visual Studio 2015\Projects\synopse\synapse\synapse\obj\Debug\synapse.Acceso.resources
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\bin\Debug\synapse.exe.config
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\obj\Debug\synapse.exe
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\obj\Debug\synapse.pdb
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\bin\Debug\synapse.exe
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\bin\Debug\synapse.pdb
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\obj\Debug\synapse.csprojResolveAssemblyReference.cache
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\obj\Debug\synapse.Acceso.resources
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\obj\Debug\synapse.Properties.Resources.resources
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\obj\Debug\synapse.csproj.GenerateResource.Cache
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\obj\Debug\synapse.SplashScreen.resources
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\obj\Debug\synapse.MainForm.resources
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\bin\Debug\Newtonsoft.Json.dll
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\bin\Debug\System.Reactive.Core.dll
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\bin\Debug\System.Reactive.Interfaces.dll
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\bin\Debug\System.Reactive.Linq.dll
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\bin\Debug\System.Reactive.PlatformServices.dll
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\bin\Debug\System.Reactive.Windows.Threading.dll
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\bin\Debug\Newtonsoft.Json.xml
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\bin\Debug\System.Reactive.Core.xml
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\bin\Debug\System.Reactive.Interfaces.xml
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\bin\Debug\System.Reactive.Linq.xml
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\bin\Debug\System.Reactive.PlatformServices.xml
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\bin\Debug\System.Reactive.Windows.Threading.xml
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\bin\Debug\Firebase.dll
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\obj\Debug\synapse.csproj.ResolveComReference.cache
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\obj\Debug\synapse.ItemVideo.resources
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\bin\Debug\Interop.WMPLib.dll
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\bin\Debug\AxInterop.WMPLib.dll
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\obj\Debug\Interop.WMPLib.dll
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\obj\Debug\AxInterop.WMPLib.dll
+D:\Dropbox\PROYECTO SYNAPSE\synapse\synapse\obj\Debug\synapse.Test.resources
+D:\repo_vsc\synapse\synapse\obj\Debug\synapse.csprojAssemblyReference.cache
+D:\repo_vsc\synapse\synapse\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\repo_vsc\synapse\synapse\obj\Debug\Interop.WMPLib.dll
+D:\repo_vsc\synapse\synapse\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\repo_vsc\synapse\synapse\obj\Debug\AxInterop.WMPLib.dll
+D:\repo_vsc\synapse\synapse\obj\Debug\synapse.csproj.ResolveComReference.cache
+D:\repo_vsc\synapse\synapse\obj\Debug\synapse.exe
+D:\repo_vsc\synapse\synapse\obj\Debug\synapse.pdb
+D:\repo_vsc\synapse\synapse\bin\Debug\synapse.exe.config
+D:\repo_vsc\synapse\synapse\bin\Debug\synapse.exe
+D:\repo_vsc\synapse\synapse\bin\Debug\synapse.pdb
+D:\repo_vsc\synapse\synapse\bin\Debug\Firebase.dll
+D:\repo_vsc\synapse\synapse\bin\Debug\Newtonsoft.Json.dll
+D:\repo_vsc\synapse\synapse\bin\Debug\System.Reactive.Core.dll
+D:\repo_vsc\synapse\synapse\bin\Debug\System.Reactive.Interfaces.dll
+D:\repo_vsc\synapse\synapse\bin\Debug\System.Reactive.Linq.dll
+D:\repo_vsc\synapse\synapse\bin\Debug\System.Reactive.PlatformServices.dll
+D:\repo_vsc\synapse\synapse\bin\Debug\System.Reactive.Windows.Threading.dll
+D:\repo_vsc\synapse\synapse\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\repo_vsc\synapse\synapse\bin\Debug\Newtonsoft.Json.xml
+D:\repo_vsc\synapse\synapse\bin\Debug\System.Reactive.Core.xml
+D:\repo_vsc\synapse\synapse\bin\Debug\System.Reactive.Interfaces.xml
+D:\repo_vsc\synapse\synapse\bin\Debug\System.Reactive.Linq.xml
+D:\repo_vsc\synapse\synapse\bin\Debug\System.Reactive.PlatformServices.xml
+D:\repo_vsc\synapse\synapse\bin\Debug\System.Reactive.Windows.Threading.xml
+D:\repo_vsc\synapse\synapse\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\repo_vsc\synapse\synapse\bin\Debug\Interop.WMPLib.dll
+D:\repo_vsc\synapse\synapse\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\repo_vsc\synapse\synapse\bin\Debug\AxInterop.WMPLib.dll
+D:\repo_vsc\synapse\synapse\obj\Debug\synapse.Acceso.resources
+D:\repo_vsc\synapse\synapse\obj\Debug\synapse.Test.resources
+D:\repo_vsc\synapse\synapse\obj\Debug\synapse.ItemVideo.resources
+D:\repo_vsc\synapse\synapse\obj\Debug\synapse.MainForm.resources
+D:\repo_vsc\synapse\synapse\obj\Debug\synapse.SplashScreen.resources
+D:\repo_vsc\synapse\synapse\obj\Debug\synapse.Properties.Resources.resources
+D:\repo_vsc\synapse\synapse\obj\Debug\synapse.csproj.GenerateResource.cache
+D:\repo_vsc\synapse\synapse\obj\Debug\synapse.csproj.CopyComplete
+D:\repo_vsc\synapse\synapse\obj\Debug\synapse.GenerarForm.resources
+D:\repo_vsc\synapse\synapse\obj\Debug\synapse.SelectedMenuForm.resources
+D:\repo_vsc\synapse\synapse\bin\Debug\ExcelDataReader.DataSet.dll
+D:\repo_vsc\synapse\synapse\bin\Debug\ExcelDataReader.dll
+D:\repo_vsc\synapse\synapse\bin\Debug\ExcelDataReader.pdb
+D:\repo_vsc\synapse\synapse\bin\Debug\ExcelDataReader.xml
+D:\repo_vsc\synapse\synapse\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\repo_vsc\synapse\synapse\bin\Debug\ExcelDataReader.DataSet.xml
+D:\repo_vsc\synapse\synapse\bin\Debug\IronXL.dll
+D:\repo_vsc\synapse\synapse\bin\Debug\IronXL.xml
+D:\user\desktop\agenda_uni_espoch-master\synapse\bin\Debug\synapse.exe.config
+D:\user\desktop\agenda_uni_espoch-master\synapse\bin\Debug\synapse.exe
+D:\user\desktop\agenda_uni_espoch-master\synapse\bin\Debug\synapse.pdb
+D:\user\desktop\agenda_uni_espoch-master\synapse\bin\Debug\ExcelDataReader.DataSet.dll
+D:\user\desktop\agenda_uni_espoch-master\synapse\bin\Debug\ExcelDataReader.dll
+D:\user\desktop\agenda_uni_espoch-master\synapse\bin\Debug\Firebase.dll
+D:\user\desktop\agenda_uni_espoch-master\synapse\bin\Debug\IronXL.dll
+D:\user\desktop\agenda_uni_espoch-master\synapse\bin\Debug\Newtonsoft.Json.dll
+D:\user\desktop\agenda_uni_espoch-master\synapse\bin\Debug\System.Reactive.Core.dll
+D:\user\desktop\agenda_uni_espoch-master\synapse\bin\Debug\System.Reactive.Interfaces.dll
+D:\user\desktop\agenda_uni_espoch-master\synapse\bin\Debug\System.Reactive.Linq.dll
+D:\user\desktop\agenda_uni_espoch-master\synapse\bin\Debug\System.Reactive.PlatformServices.dll
+D:\user\desktop\agenda_uni_espoch-master\synapse\bin\Debug\System.Reactive.Windows.Threading.dll
+D:\user\desktop\agenda_uni_espoch-master\synapse\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\user\desktop\agenda_uni_espoch-master\synapse\bin\Debug\ExcelDataReader.pdb
+D:\user\desktop\agenda_uni_espoch-master\synapse\bin\Debug\ExcelDataReader.xml
+D:\user\desktop\agenda_uni_espoch-master\synapse\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\user\desktop\agenda_uni_espoch-master\synapse\bin\Debug\ExcelDataReader.DataSet.xml
+D:\user\desktop\agenda_uni_espoch-master\synapse\bin\Debug\IronXL.xml
+D:\user\desktop\agenda_uni_espoch-master\synapse\bin\Debug\Newtonsoft.Json.xml
+D:\user\desktop\agenda_uni_espoch-master\synapse\bin\Debug\System.Reactive.Core.xml
+D:\user\desktop\agenda_uni_espoch-master\synapse\bin\Debug\System.Reactive.Interfaces.xml
+D:\user\desktop\agenda_uni_espoch-master\synapse\bin\Debug\System.Reactive.Linq.xml
+D:\user\desktop\agenda_uni_espoch-master\synapse\bin\Debug\System.Reactive.PlatformServices.xml
+D:\user\desktop\agenda_uni_espoch-master\synapse\bin\Debug\System.Reactive.Windows.Threading.xml
+D:\user\desktop\agenda_uni_espoch-master\synapse\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\user\desktop\agenda_uni_espoch-master\synapse\bin\Debug\Interop.WMPLib.dll
+D:\user\desktop\agenda_uni_espoch-master\synapse\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\user\desktop\agenda_uni_espoch-master\synapse\bin\Debug\AxInterop.WMPLib.dll
+D:\user\desktop\agenda_uni_espoch-master\synapse\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\user\desktop\agenda_uni_espoch-master\synapse\obj\Debug\Interop.WMPLib.dll
+D:\user\desktop\agenda_uni_espoch-master\synapse\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\user\desktop\agenda_uni_espoch-master\synapse\obj\Debug\AxInterop.WMPLib.dll
+D:\user\desktop\agenda_uni_espoch-master\synapse\obj\Debug\synapse.csproj.ResolveComReference.cache
+D:\user\desktop\agenda_uni_espoch-master\synapse\obj\Debug\synapse.Properties.Resources.resources
+D:\user\desktop\agenda_uni_espoch-master\synapse\obj\Debug\synapse.csproj.GenerateResource.cache
+D:\user\desktop\agenda_uni_espoch-master\synapse\obj\Debug\synapse.csproj.CoreCompileInputs.cache
+D:\user\desktop\agenda_uni_espoch-master\synapse\obj\Debug\synapse.csproj.CopyComplete
+D:\user\desktop\agenda_uni_espoch-master\synapse\obj\Debug\synapse.exe
+D:\user\desktop\agenda_uni_espoch-master\synapse\obj\Debug\synapse.pdb
+D:\user\desktop\agenda_uni_espoch-master\synapse\obj\Debug\synapse.csprojAssemblyReference.cache
+D:\user\desktop\agenda_uni_espoch-master\synapse\obj\Debug\synapse.SplashScreen.resources
+D:\user\desktop\agenda_uni_espoch-master\synapse\obj\Debug\synapse.Acceso.resources
+D:\user\desktop\agenda_uni_espoch-master\synapse\obj\Debug\synapse.MainForm.resources
+D:\user\desktop\QUINTO_APP_INFO\final_parcial_1\synapse\bin\Debug\synapse.exe.config
+D:\user\desktop\QUINTO_APP_INFO\final_parcial_1\synapse\bin\Debug\synapse.exe
+D:\user\desktop\QUINTO_APP_INFO\final_parcial_1\synapse\bin\Debug\synapse.pdb
+D:\user\desktop\QUINTO_APP_INFO\final_parcial_1\synapse\bin\Debug\ExcelDataReader.DataSet.dll
+D:\user\desktop\QUINTO_APP_INFO\final_parcial_1\synapse\bin\Debug\ExcelDataReader.dll
+D:\user\desktop\QUINTO_APP_INFO\final_parcial_1\synapse\bin\Debug\Firebase.dll
+D:\user\desktop\QUINTO_APP_INFO\final_parcial_1\synapse\bin\Debug\IronXL.dll
+D:\user\desktop\QUINTO_APP_INFO\final_parcial_1\synapse\bin\Debug\Newtonsoft.Json.dll
+D:\user\desktop\QUINTO_APP_INFO\final_parcial_1\synapse\bin\Debug\System.Reactive.Core.dll
+D:\user\desktop\QUINTO_APP_INFO\final_parcial_1\synapse\bin\Debug\System.Reactive.Interfaces.dll
+D:\user\desktop\QUINTO_APP_INFO\final_parcial_1\synapse\bin\Debug\System.Reactive.Linq.dll
+D:\user\desktop\QUINTO_APP_INFO\final_parcial_1\synapse\bin\Debug\System.Reactive.PlatformServices.dll
+D:\user\desktop\QUINTO_APP_INFO\final_parcial_1\synapse\bin\Debug\System.Reactive.Windows.Threading.dll
+D:\user\desktop\QUINTO_APP_INFO\final_parcial_1\synapse\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\user\desktop\QUINTO_APP_INFO\final_parcial_1\synapse\bin\Debug\ExcelDataReader.pdb
+D:\user\desktop\QUINTO_APP_INFO\final_parcial_1\synapse\bin\Debug\ExcelDataReader.xml
+D:\user\desktop\QUINTO_APP_INFO\final_parcial_1\synapse\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\user\desktop\QUINTO_APP_INFO\final_parcial_1\synapse\bin\Debug\ExcelDataReader.DataSet.xml
+D:\user\desktop\QUINTO_APP_INFO\final_parcial_1\synapse\bin\Debug\IronXL.xml
+D:\user\desktop\QUINTO_APP_INFO\final_parcial_1\synapse\bin\Debug\Newtonsoft.Json.xml
+D:\user\desktop\QUINTO_APP_INFO\final_parcial_1\synapse\bin\Debug\System.Reactive.Core.xml
+D:\user\desktop\QUINTO_APP_INFO\final_parcial_1\synapse\bin\Debug\System.Reactive.Interfaces.xml
+D:\user\desktop\QUINTO_APP_INFO\final_parcial_1\synapse\bin\Debug\System.Reactive.Linq.xml
+D:\user\desktop\QUINTO_APP_INFO\final_parcial_1\synapse\bin\Debug\System.Reactive.PlatformServices.xml
+D:\user\desktop\QUINTO_APP_INFO\final_parcial_1\synapse\bin\Debug\System.Reactive.Windows.Threading.xml
+D:\user\desktop\QUINTO_APP_INFO\final_parcial_1\synapse\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\user\desktop\QUINTO_APP_INFO\final_parcial_1\synapse\bin\Debug\Interop.WMPLib.dll
+D:\user\desktop\QUINTO_APP_INFO\final_parcial_1\synapse\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\user\desktop\QUINTO_APP_INFO\final_parcial_1\synapse\bin\Debug\AxInterop.WMPLib.dll
+D:\user\desktop\QUINTO_APP_INFO\final_parcial_1\synapse\obj\Debug\synapse.csprojAssemblyReference.cache
+D:\user\desktop\QUINTO_APP_INFO\final_parcial_1\synapse\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\user\desktop\QUINTO_APP_INFO\final_parcial_1\synapse\obj\Debug\Interop.WMPLib.dll
+D:\user\desktop\QUINTO_APP_INFO\final_parcial_1\synapse\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\user\desktop\QUINTO_APP_INFO\final_parcial_1\synapse\obj\Debug\AxInterop.WMPLib.dll
+D:\user\desktop\QUINTO_APP_INFO\final_parcial_1\synapse\obj\Debug\synapse.csproj.ResolveComReference.cache
+D:\user\desktop\QUINTO_APP_INFO\final_parcial_1\synapse\obj\Debug\synapse.Acceso.resources
+D:\user\desktop\QUINTO_APP_INFO\final_parcial_1\synapse\obj\Debug\synapse.MainForm.resources
+D:\user\desktop\QUINTO_APP_INFO\final_parcial_1\synapse\obj\Debug\synapse.Properties.Resources.resources
+D:\user\desktop\QUINTO_APP_INFO\final_parcial_1\synapse\obj\Debug\synapse.SplashScreen.resources
+D:\user\desktop\QUINTO_APP_INFO\final_parcial_1\synapse\obj\Debug\synapse.csproj.GenerateResource.cache
+D:\user\desktop\QUINTO_APP_INFO\final_parcial_1\synapse\obj\Debug\synapse.csproj.CoreCompileInputs.cache
+D:\user\desktop\QUINTO_APP_INFO\final_parcial_1\synapse\obj\Debug\synapse.csproj.CopyComplete
+D:\user\desktop\QUINTO_APP_INFO\final_parcial_1\synapse\obj\Debug\synapse.exe
+D:\user\desktop\QUINTO_APP_INFO\final_parcial_1\synapse\obj\Debug\synapse.pdb
+D:\user\desktop\QUINTO_APP_INFO\final_parcial_1\synapse\obj\Debug\synapse.GenerarForm.resources
+D:\user\desktop\QUINTO_APP_INFO\final_parcial_1\synapse\obj\Debug\synapse.ItemVideo.resources
